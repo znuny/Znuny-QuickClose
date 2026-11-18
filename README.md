@@ -18,7 +18,7 @@ This package add the "quick close" feature in the ticket action menu and to the 
 
 **Prerequisites**
 
-- Znuny 7.3
+- Znuny 7.5
 
 **Installation**
 
